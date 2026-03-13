@@ -1,18 +1,10 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rodrigo%20Lutfy&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer&descAlignY=55&descSize=20)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:5c0000,100:2d0000&height=200&section=header&text=Rodrigo%20Lutfy&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer&descAlignY=55&descSize=20)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Backend+em+forma%C3%A7%C3%A3o+%F0%9F%9A%80;Java+%7C+Python+%7C+C%2B%2B+%7C+Spring+Boot;PostgreSQL+%7C+MySQL+%7C+Git;Sempre+aprendendo+e+evoluindo+%F0%9F%93%88)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=B22222&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%9A%80;Java+%7C+Python+%7C+C%2B%2B+%7C+Spring+Boot;PostgreSQL+%7C+MySQL+%7C+Git+%7C+GitHub)](https://git.io/typing-svg)
 
 </div>
-
----
-
-## 🙋 Sobre Mim
-
-Desenvolvedor Backend em formação, focado na construção de soluções robustas e no desenvolvimento de uma carreira sólida e sustentável na área de tecnologia. Atualmente em constante processo de aprendizado e evolução, venho desenvolvendo projetos práticos de backend para consolidar meus conhecimentos técnicos, aplicando desde cedo boas práticas de engenharia de software, organização de código e desenvolvimento orientado a resultados.
-
-> 🎯 **Objetivo:** Busco minha primeira oportunidade como Desenvolvedor Backend Júnior, onde eu possa aplicar meus conhecimentos, continuar evoluindo tecnicamente e contribuir com soluções eficientes dentro de uma equipe que valorize aprendizado, colaboração e inovação.
 
 ---
 
@@ -36,30 +28,18 @@ Desenvolvedor Backend em formação, focado na construção de soluções robust
 
 ---
 
-## 🧠 Soft Skills
-
-| Habilidade | Descrição |
-|---|---|
-| 📚 Aprendizado Contínuo | Mentalidade de evolução constante, sempre buscando aprimorar e acompanhar novas tecnologias |
-| 🔍 Resolução de Problemas | Capacidade de analisar desafios e encontrar soluções eficientes, mesmo em cenários novos |
-| 🔄 Adaptabilidade | Facilidade para aprender rapidamente e se adaptar a diferentes projetos e tecnologias |
-| ✅ Comprometimento | Disciplina, foco e responsabilidade para entregar resultados com qualidade |
-| 🌐 Inglês | Nível iniciante — em desenvolvimento, com foco em leitura e documentação técnica |
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigolutfydev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigolutfydev&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigolutfydev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigolutfydev&layout=compact&langs_count=7&theme=radical&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rodrigolutfydev&theme=tokyonight&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rodrigolutfydev&theme=radical&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
 
 </div>
 
@@ -78,6 +58,6 @@ Desenvolvedor Backend em formação, focado na construção de soluções robust
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2d0000,50:5c0000,100:1a0000&height=120&section=footer)
 
 </div>
