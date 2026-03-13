@@ -31,7 +31,7 @@
 ### 🔗 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rodrigo_Lutfy-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-lutfy)
-[![Instagram](https://img.shields.io/badge/Instagram-rodrigo__lutfy-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rodrigolutfy)
+[![Instagram](https://img.shields.io/badge/Instagram-rodrigo__lutfy-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rodrigo_lutfy)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2d0000,50:5c0000,100:1a0000&height=100&section=footer)
 
