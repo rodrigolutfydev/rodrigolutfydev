@@ -22,7 +22,7 @@
 ### 📊 Stats
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rodrigolutfydev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0000"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigolutfydev&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0d0000"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo_lutfydev&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0d0000"/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=rodrigolutfydev&theme=radical&hide_border=true&background=0d0000&locale=pt_BR)](https://git.io/streak-stats)
 
