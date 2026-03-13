@@ -5,7 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=B22222&center=true&vCenter=true&width=500&height=30&lines=Java+%7C+Python+%7C+C%2B%2B+%7C+Spring+Boot;PostgreSQL+%7C+MySQL+%7C+Git+%7C+GitHub)](https://git.io/typing-svg)
 
 ---
-
 ### 🛠️ Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
