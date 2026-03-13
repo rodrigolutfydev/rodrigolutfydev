@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:5c0000,100:2d0000&height=180&section=header&text=Rodrigo%20Lutfy&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer&descAlignY=55&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:5c0000,100:2d0000&height=160&section=header&text=Rodrigo%20Lutfy&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=45)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=B22222&center=true&vCenter=true&width=500&lines=Backend+Developer+%F0%9F%9A%80;Java+%7C+Python+%7C+C%2B%2B+%7C+Spring+Boot;PostgreSQL+%7C+MySQL+%7C+Git+%7C+GitHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=B22222&center=true&vCenter=true&width=500&height=30&lines=Java+%7C+Python+%7C+C%2B%2B+%7C+Spring+Boot;PostgreSQL+%7C+MySQL+%7C+Git+%7C+GitHub)](https://git.io/typing-svg)
 
 ---
 
