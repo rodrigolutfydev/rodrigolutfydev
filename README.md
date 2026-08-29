@@ -1,7 +1,7 @@
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:5c0000,100:2d0000&height=160&section=header&text=Rodrigo%20Lutfy&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=45)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=B22222&center=true&vCenter=true&width=500&height=30&lines=Java+%7C+Spring+Boot;PostgreSQL+%7C+MySQL+%7C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=B22222&center=true&vCenter=true&width=500&height=30&lines=Java+%7C+Spring+Boot;PostgreSQL+%7C+MySQL)](https://git.io/typing-svg)
 
 ---
 
