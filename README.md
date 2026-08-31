@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:5c0000,100:2d0000&height=140&section=header&text=Rodrigo%20Lutfy&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=45)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:5c0000,100:2d0000&height=140&section=header&text=Back%20End&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=45)
 
 
 </div>
@@ -33,9 +33,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-lutfy)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rodrigo_lutfy)
-
-<div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2d0000,50:5c0000,100:1a0000&height=90&section=footer)
-
-</div>
