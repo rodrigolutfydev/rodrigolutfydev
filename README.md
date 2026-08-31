@@ -1,7 +1,8 @@
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:5c0000,100:2d0000&height=160&section=header&text=Rodrigo%20Lutfy&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=45)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=B22222&center=true&vCenter=true&width=500&height=30&lines=Java+%7C+Spring+Boot;PostgreSQL+%7C+MySQL)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=B22222&center=true&vCenter=true&width=500&height=30&lines=Java+%7C+Spring+Boot;Spring+Security+%7C+JWT;PostgreSQL+%7C+MySQL)](https://git.io/typing-svg)
 
 ---
 
@@ -9,14 +10,18 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
 ### 📊 Stats
-
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=rodrigolutfydev&theme=radical&hide_border=true&background=0d0000&locale=pt_BR&ring=B22222&fire=B22222&currStreakLabel=B22222&sideLabels=B22222&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
 
