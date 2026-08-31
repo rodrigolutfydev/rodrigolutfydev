@@ -2,7 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:5c0000,100:2d0000&height=140&section=header&text=Rodrigo%20Lutfy&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=45)
 
-**Backend Developer** focused on Java, Spring Boot and REST APIs
 
 </div>
 
@@ -27,16 +26,6 @@
 
 **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=rodrigolutfydev&theme=radical&hide_border=true&background=0d0000&locale=pt_BR&ring=B22222&fire=B22222&currStreakLabel=B22222&sideLabels=B22222&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff)
-
-</div>
 
 ---
 
