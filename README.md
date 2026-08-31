@@ -1,43 +1,52 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:5c0000,100:2d0000&height=180&section=header&text=Rodrigo%20Lutfy&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Backend%20Developer&descAlignY=60&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:5c0000,100:2d0000&height=140&section=header&text=Rodrigo%20Lutfy&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=45)
 
-<br>
+**Backend Developer** focused on Java, Spring Boot and REST APIs
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=B22222&center=true&vCenter=true&width=550&height=25&lines=Building+REST+APIs+with+Java+%26+Spring+Boot;Focused+on+clean+architecture+and+security)](https://git.io/typing-svg)
+</div>
 
-<br>
+---
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" />
+### 🛠️ Stack
 
-<br>
+**Language & Framework**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+**Security**
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-<br>
+**Database**
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white)
 
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+**Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-<br><br>
+---
 
-<img src="https://streak-stats.demolab.com?user=rodrigolutfydev&theme=radical&hide_border=true&background=0d0000&locale=pt_BR&ring=B22222&fire=B22222&currStreakLabel=B22222&sideLabels=B22222&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" />
+### 📊 GitHub Stats
 
-<br><br>
+<div align="center">
 
-<a href="https://www.linkedin.com/in/rodrigo-lutfy">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/rodrigo_lutfy">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+![GitHub Streak](https://streak-stats.demolab.com?user=rodrigolutfydev&theme=radical&hide_border=true&background=0d0000&locale=pt_BR&ring=B22222&fire=B22222&currStreakLabel=B22222&sideLabels=B22222&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2d0000,50:5c0000,100:1a0000&height=100&section=footer)
+</div>
+
+---
+
+### 🔗 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-lutfy)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rodrigo_lutfy)
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2d0000,50:5c0000,100:1a0000&height=90&section=footer)
 
 </div>
