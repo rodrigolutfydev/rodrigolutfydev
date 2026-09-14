@@ -1,54 +1,81 @@
 <h1 align="center">Rodrigo Lutfy</h1>
 
 <p align="center">
-  <strong>Backend Developer</strong>
+  <strong>Backend Developer</strong><br />
+  JAVA · SPRING BOOT · POSTGRESQL · REST · SEGURANÇA
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rodrigo-lutfy">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/rodrigo_lutfy">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+  Transformando regra de negócio em APIs que resistem ao uso real.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rodrigo-lutfy">LinkedIn</a>
+  ·
+  <a href="https://github.com/rodrigolutfydev">GitHub</a>
+  ·
+  <a href="mailto:[seu e-mail]">E-mail</a>
 </p>
 
 <br />
 
-<p align="center">
-  Estudante de Engenharia de Software, dedicado ao desenvolvimento de aplicações
-  <br />
-  de retaguarda em Java. Construo APIs REST com Spring Boot, com foco em
-  <br />
-  modelagem de dados, autenticação e controle de acesso, integridade
-  <br />
-  transacional e comportamento sob requisições concorrentes.
-</p>
+## O que construo
+
+Desenvolvo aplicações de retaguarda em Java, com foco nas decisões estruturais que determinam se um sistema resiste ao uso real. Não só nas rotas que respondem, mas no que sustenta cada uma delas: o modelo de dados, o controle de acesso, a integridade da transação.
+
+Meu ponto de partida é simples: uma regra de negócio que existe apenas no código da aplicação não existe de verdade. Por isso trabalho com restrições declarativas no banco, esquema versionado por migrações e controle de concorrência delegado a quem já o garante — sem perder de vista a clareza da interface que está sendo exposta.
 
 <br />
 
-<h3 align="center">Stack</h3>
+## Painel técnico
+
+| Camada | Stack e práticas |
+| :--- | :--- |
+| Aplicação | Java 17, Spring Boot, APIs REST, organização de pacotes por domínio |
+| Segurança | Spring Security, JWT, BCrypt, autorização por papel e por propriedade |
+| Persistência | PostgreSQL, Spring Data JPA, Hibernate, Flyway, modelagem relacional |
+| Interface | DTOs por operação, paginação, tratamento centralizado de erro, Swagger |
+| Ferramentas | Maven, Git, Docker, Insomnia, Linux |
+
+<br />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security" />
   <img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white" alt="Flyway" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
 </p>
 
+<br />
+
+## Projetos em destaque
+
+### 01 / Ticketfy API
+
+Sistema de venda de ingressos para eventos · projeto pessoal em desenvolvimento
+
+- Modelei o domínio de eventos e lotes de ingresso com esquema versionado em Flyway, restrições de integridade declarativas e exclusão lógica para preservar histórico.
+- Implementei autenticação JWT com dois regimes de autorização: por papel, na borda HTTP, e por propriedade do recurso, na camada de serviço.
+- Resolvi a venda concorrente com atualização condicional no banco, garantindo que dois compradores simultâneos nunca levem o mesmo ingresso.
+- Centralizei o tratamento de erro, mapeando cada condição de falha ao código de situação HTTP correspondente.
+- Documentei as decisões de arquitetura e as alternativas descartadas, incluindo o comparativo entre as estratégias de controle de concorrência avaliadas.
+
+<br />
+
+## Em evolução
+
+Testes automatizados · Testcontainers · Docker e Docker Compose · Integração com gateway de pagamento · Processamento assíncrono · Idempotência
+
+<br />
+
+---
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" alt="Insomnia" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
+  Aberto a conversar sobre backend, arquitetura de APIs e modelagem de dados.<br />
+  <a href="https://www.linkedin.com/in/rodrigo-lutfy">Vamos nos conectar.</a>
 </p>
