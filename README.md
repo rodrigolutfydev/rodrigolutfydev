@@ -18,15 +18,12 @@
   <a href="mailto:[seu e-mail]">E-mail</a>
 </p>
 
-<br />
-
 ## O que construo
 
 Desenvolvo aplicações de retaguarda em Java, com foco nas decisões estruturais que determinam se um sistema resiste ao uso real. Não só nas rotas que respondem, mas no que sustenta cada uma delas: o modelo de dados, o controle de acesso, a integridade da transação.
 
 Meu ponto de partida é simples: uma regra de negócio que existe apenas no código da aplicação não existe de verdade. Por isso trabalho com restrições declarativas no banco, esquema versionado por migrações e controle de concorrência delegado a quem já o garante — sem perder de vista a clareza da interface que está sendo exposta.
 
-<br />
 
 ## Painel técnico
 
@@ -37,10 +34,6 @@ Meu ponto de partida é simples: uma regra de negócio que existe apenas no cód
 | Persistência | PostgreSQL, Spring Data JPA, Hibernate, Flyway, modelagem relacional |
 | Interface | DTOs por operação, paginação, tratamento centralizado de erro, Swagger |
 | Ferramentas | Maven, Git, Docker, Insomnia, Linux |
-
-<br />
-
-<br />
 
 ## Projetos em destaque
 
@@ -54,13 +47,11 @@ Sistema de venda de ingressos para eventos · projeto pessoal em desenvolvimento
 - Centralizei o tratamento de erro, mapeando cada condição de falha ao código de situação HTTP correspondente.
 - Documentei as decisões de arquitetura e as alternativas descartadas, incluindo o comparativo entre as estratégias de controle de concorrência avaliadas.
 
-<br />
 
 ## Em evolução
 
 Testes automatizados · Testcontainers · Docker e Docker Compose · Integração com gateway de pagamento · Processamento assíncrono · Idempotência
 
-<br />
 
 ---
 
