@@ -12,8 +12,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/rodrigo-lutfy">LinkedIn</a>
   ·
-  <a href="https://github.com/rodrigolutfydev">GitHub</a>
-  ·
   <a href="mailto:[seu e-mail]">E-mail</a>
 </p>
 
