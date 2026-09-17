@@ -1,7 +1,7 @@
 <h1 align="center">Rodrigo Lutfy</h1>
 
 <p align="center">
-  <strong>Dev Backend</strong><br/>
+  <strong>DEV BACKEND</strong><br/>
   JAVA · SPRING BOOT · SPRING SECURITY · REST APIs · SQL · DOCKER
 </p>
 
@@ -26,10 +26,9 @@ Meu ponto de partida é simples: uma regra de negócio que existe apenas no cód
 
 | Camada | Stack e práticas |
 | :--- | :--- |
-| Aplicação | Java 17, Spring Boot, APIs REST, organização de pacotes por domínio |
-| Segurança | Spring Security, JWT, BCrypt, autorização por papel e por propriedade |
-| Persistência | PostgreSQL, Spring Data JPA, Hibernate, Flyway, modelagem relacional |
-| Interface | DTOs por operação, paginação, tratamento centralizado de erro, Swagger |
+| Aplicação | Java 17, Spring Boot, APIs REST |
+| Segurança | Spring Security, JWT, BCrypt |
+| Persistência | PostgreSQL, Spring Data JPA, Hibernate, Flyway |
 | Ferramentas | Maven, Git, Docker, Insomnia, Linux |
 
 ## Projetos em destaque
@@ -53,6 +52,6 @@ Testes automatizados · Testcontainers · Docker e Docker Compose · Integraçã
 ---
 
 <p align="center">
-  Aberto a conversar sobre backend, arquitetura de APIs e modelagem de dados.<br />
+  Aberto a conversar sobre, arquitetura de APIs e modelagem de dados.<br />
   <a href="https://www.linkedin.com/in/rodrigo-lutfy">Vamos nos conectar.</a>
 </p>
