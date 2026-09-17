@@ -1,13 +1,12 @@
 <h1 align="center">Rodrigo Lutfy</h1>
 
 <p align="center">
-  <strong>Backend Developer</strong><br />
-  Estudante de Engenharia de Software<br />
-  JAVA · SPRING BOOT · POSTGRESQL · REST · SEGURANÇA
+  <strong>Dev Backend</strong>
+  JAVA · SPRING BOOT · SPRING SECURITY · REST APIs · SQL · DOCKER
 </p>
 
 <p align="center">
-  Transformando regra de negócio em APIs que resistem ao uso real.
+  Cursando Engenharia de Software.
 </p>
 
 <p align="center">
