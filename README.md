@@ -1,7 +1,7 @@
 <h1 align="center">Rodrigo Lutfy</h1>
 
 <p align="center">
-  <strong>Dev Backend</strong>
+  <strong>Dev Backend</strong><br/>
   JAVA · SPRING BOOT · SPRING SECURITY · REST APIs · SQL · DOCKER
 </p>
 
